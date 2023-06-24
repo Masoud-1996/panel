@@ -1,0 +1,144 @@
+@font-face {
+    font-family: Yekan;
+    src: url(Yekan.ttf);
+}
+
+*{
+
+
+    font-family: Yekan;
+}
+
+.side1{
+
+    height: 100vh;
+    background: linear-gradient(rgba(3, 75, 80, 0.6),rgba(36, 0, 0, 0.9)),url(image5.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-shadow: -5px 4px 15px #999;
+}
+
+.b-border{
+
+
+    border-bottom: 3px solid white;
+}
+
+.c11{
+    background-color: red;
+transition: all 0.4s;
+border-radius: 20px;
+margin-left: 10px;
+font-size: 1.2em;
+
+
+}
+.c11:hover{
+    background-color: rgba(8, 204, 8, 0.699);
+    
+ transform: translatex(40px);
+
+}
+
+
+
+.sb11{
+    transition: all 0.4s;
+    font-size: 1.2em;
+}
+
+.sb11:hover{
+    border-radius: 20px;
+    background-color: #bb5b02;
+
+        
+ transform: translatex(30px);
+
+}
+
+
+
+.input-group .searchbar{
+background-color: transparent;
+border: none;
+border-bottom: 4px solid white;
+transition: all 0.4s;
+}
+
+
+.input-group .searchbar:focus{
+    background: transparent;
+    box-shadow: none;
+    border-bottom: 4px solid rgb(161, 3, 3);
+
+    }
+    
+
+.searchbutton i{ 
+ 
+    padding: 12px 15px;
+    border-radius: 40%;
+    
+
+
+}
+
+.searchbutton i:hover{ 
+ 
+
+    background-color: #009632;
+
+
+
+}
+
+
+
+
+.c1{
+    
+    box-shadow: 1px 2px 7px #999;
+    
+    transition: all .4s;
+}
+.c1:hover{
+    
+    box-shadow: 4px 5px 15px #999;
+    transform: translateY(-5px);
+    cursor: pointer;
+    
+}
+
+.tborder{
+
+border-right: 3px solid #fa4433;
+}  
+
+
+.tnbar i{
+    transition: all 0.4s;
+}
+
+.tnbar i:hover{
+    
+    color: #dceb0a;
+    font-size: 30px;
+    transform: translateY(-5px);
+}
+
+@media(max-width: 765px)
+{
+
+    .side1{
+        position: static;
+        height: auto;
+
+    }
+    
+    .tnbar{
+        position: static;
+
+    }
+    
+}

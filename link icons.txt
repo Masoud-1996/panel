@@ -1,0 +1,25 @@
+<i class="fas fa-search"></i>
+<i class="fas fa-home"></i>
+<i class="fas fa-message "></i>
+<i class="fas fa-sign-out"></i>
+
+<i class="fa fa-gamepad"></i>
+<i class="fa-solid fa-comment "></i>
+
+<i class="fa-solid fa-circle-user"></i>
+<i class="fa-solid fa-pen"></i>
+
+<i class="fa-solid fa-gear"></i>
+
+<i class="fa-solid fa-thumbs-up"></i>
+<i class="fa-solid fa-thumbs-down"></i>
+
+<i class="fa-solid fa-right-to-bracket "></i>
+
+<i class="fa fa-cart-plus fa-3x "></i>
+
+<i class="fa fa-envelope fa-3x "></i> پاکت نامه
+<i class="fas fa-mobile fa-3x"></i>
+
+
+
